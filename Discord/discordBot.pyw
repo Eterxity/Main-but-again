@@ -47,4 +47,4 @@ async def on_message(message):
     #         await message.reply("is super cool.")
     #         break
 
-bot.run("OTQxMTU0Mzg1NjEyOTIyOTEy.YgR0Uw.0B5Tldgr9HCOl7eQXjwtYv5BErQ")
+bot.run("Hold up there buster.")
